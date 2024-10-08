@@ -1,3 +1,4 @@
+package KI_36.Proshkin.Lab1;
 import java.io.*;
 import java.util.Scanner;
 
