@@ -1,0 +1,26 @@
+Rifle created: AssaultRifle{type='M16', manufacturer='Colt', bullet=Bullet{caliber='5.56mm', quantity=30}, fireMode='null'}
+AssaultRifle created with fire mode: Automatic
+Shot fired. Remaining bullets: 29
+Fire mode changed to: Single
+Automatic shooting started for 5 shots.
+Shot fired. Remaining bullets: 28
+Shot fired. Remaining bullets: 27
+Shot fired. Remaining bullets: 26
+Shot fired. Remaining bullets: 25
+Shot fired. Remaining bullets: 24
+Reloaded. Total bullets: 34
+Info retrieved: AssaultRifle{type='M16', manufacturer='Colt', bullet=Bullet{caliber='5.56mm', quantity=34}, fireMode='Single'}
+Work with rifle finished.
+Rifle created: AssaultRifle{type='M16', manufacturer='Colt', bullet=Bullet{caliber='5.56mm', quantity=30}, fireMode='null'}
+AssaultRifle created with fire mode: Automatic
+Shot fired. Remaining bullets: 29
+Fire mode changed to: Single
+Automatic shooting started for 5 shots.
+Shot fired. Remaining bullets: 28
+Shot fired. Remaining bullets: 27
+Shot fired. Remaining bullets: 26
+Shot fired. Remaining bullets: 25
+Shot fired. Remaining bullets: 24
+Reloaded. Total bullets: 34
+Info retrieved: AssaultRifle{type='M16', manufacturer='Colt', bullet=Bullet{caliber='5.56mm', quantity=34}, fireMode='Single'}
+Work with rifle finished.
