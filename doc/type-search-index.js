@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI_36.Proshkin.Lab6","l":"Lab6ProshkinLev36"},{"p":"KI_36.Proshkin.Lab6","l":"Suitcase"},{"p":"KI_36.Proshkin.Lab6","l":"Weighable"}];updateSearchResults();
